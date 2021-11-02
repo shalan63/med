@@ -8,3 +8,5 @@
 [Методические рекомендации по использованию Единой системы идентификации и аутентификации](https://digital.gov.ru/ru/documents/6186/)
 
 [Сервисы электронного правительства](https://partners.gosuslugi.ru)
+
+[Реестр наборов открытых данных:](https://roszdravnadzor.gov.ru/opendata)
