@@ -10,3 +10,4 @@
 [Сервисы электронного правительства](https://partners.gosuslugi.ru)
 
 [Реестр наборов открытых данных:](https://roszdravnadzor.gov.ru/opendata)
+[Госуслуги интеграционный модуль]https://partners.gosuslugi.ru/catalog/integration_module)
